@@ -42,31 +42,34 @@
 
 # About
 
-I’m **Yogii**, a Computer Engineering student focused on building practical software products across **full-stack development, AI/ML, computer vision, developer tooling, and intelligent systems**.
+I’m **Yogii**, a Computer Engineering student focused on building practical software across **full-stack development, AI/ML, computer vision, developer tooling, Linux, Android, and intelligent systems**.
 
-My engineering approach sits at the intersection of **product thinking and technical execution**. I enjoy taking an idea from a rough problem statement to a working system, designing the architecture, building the interface, integrating APIs and databases, and polishing the experience until the product feels complete.
+I enjoy taking ideas from a rough problem statement to working products by combining architecture, interface design, APIs, databases, automation, AI capabilities, and iterative problem solving.
 
-I’m particularly interested in:
+My engineering interests include:
 
-- **Software Engineering** — scalable applications, clean architecture, APIs, automation, and developer tooling
+- **Software Engineering** — application architecture, APIs, automation, debugging, and developer tooling
 - **AI / ML** — computer vision, OCR, intelligent verification, multimodal systems, and applied AI
-- **Full-Stack Development** — modern frontend systems, backend APIs, databases, authentication, and real-time applications
-- **Product Engineering** — turning real-world problems into usable, maintainable products
-- **Systems & Open Source** — Linux, Android customization, experimentation, debugging, and low-level problem solving
+- **Full-Stack Development** — modern frontend systems, backend APIs, authentication, databases, and real-time applications
+- **Product Engineering** — transforming real-world problems into useful and maintainable products
+- **Systems & Open Source** — Linux, Android customization, custom ROM development, experimentation, and low-level troubleshooting
 
 ### Open To
 
-```yaml
-opportunities:
-  - Software Engineering
-  - AI / ML Engineering
-  - Full-Stack Development
-  - Computer Vision
-  - Open Source
-  - Product Engineering
-  - Technical Collaborations
-  - Hackathons
-````
+<table>
+<tr>
+<td align="center"><strong>Software Engineering</strong></td>
+<td align="center"><strong>AI / ML</strong></td>
+<td align="center"><strong>Full-Stack</strong></td>
+<td align="center"><strong>Computer Vision</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>Open Source</strong></td>
+<td align="center"><strong>Product Engineering</strong></td>
+<td align="center"><strong>Hackathons</strong></td>
+<td align="center"><strong>Technical Collaborations</strong></td>
+</tr>
+</table>
 
 ---
 
@@ -100,16 +103,16 @@ opportunities:
 
 # AI / ML Expertise
 
-| Domain                      |  Proficiency | Details                                                                 |
-| :-------------------------- | :----------: | :---------------------------------------------------------------------- |
-| Computer Vision             |   Advanced   | Image processing, visual understanding, OCR-oriented pipelines          |
-| OCR & Document Intelligence |   Advanced   | Text extraction, document processing, structured verification workflows |
-| Applied AI                  |   Advanced   | Integrating AI models into practical software products                  |
-| Generative AI               | Intermediate | LLM-powered workflows, intelligent interfaces, AI-assisted applications |
-| Machine Learning            | Intermediate | Applied ML concepts, model integration, experimentation                 |
-| Intelligent Verification    |   Advanced   | Certificate/document validation and fraud-detection workflows           |
-| Multimodal Systems          | Intermediate | Combining vision, text, and contextual information                      |
-| AI Product Engineering      |   Advanced   | Designing AI features around real user problems and product constraints |
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| Computer Vision | Advanced | Image processing, visual understanding, OCR-oriented pipelines, and assistive vision concepts |
+| OCR & Document Intelligence | Advanced | Document extraction, preprocessing, structured text extraction, and verification workflows |
+| Applied AI | Advanced | Integrating AI capabilities into practical software products and user workflows |
+| Generative AI | Intermediate | LLM-powered workflows, AI-assisted applications, and intelligent interfaces |
+| Machine Learning | Intermediate | Applied ML concepts, experimentation, model integration, and intelligent systems |
+| Intelligent Verification | Advanced | Certificate, document, QR, and authenticity-oriented verification workflows |
+| Multimodal Systems | Intermediate | Combining vision, text, contextual information, and AI-assisted reasoning |
+| AI Product Engineering | Advanced | Designing AI features around real user problems, usability, latency, and product constraints |
 
 ---
 
@@ -122,31 +125,31 @@ opportunities:
 
 **An intelligent certificate verification platform designed to help identify potentially fraudulent academic credentials.**
 
-| Category        | Details                                                                                   |
-| :-------------- | :---------------------------------------------------------------------------------------- |
-| **Stack**       | Python · Flask · OCR · OpenCV · Google Generative AI · JWT · QR Processing · Tailwind CSS |
-| **Scale**       | End-to-end document verification workflow                                                 |
-| **Performance** | Automated OCR and structured extraction pipeline                                          |
-| **Security**    | JWT authentication · Hashing · QR validation · Structured verification                    |
-| **Impact**      | Reduces manual verification effort and improves certificate authenticity workflows        |
-| **Repository**  | [GitHub](https://github.com/edge2006)                                                     |
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Python · Flask · OCR · OpenCV · Google Generative AI · JWT · QR Processing · Tailwind CSS |
+| **Scale** | End-to-end document verification workflow |
+| **Performance** | Automated OCR, extraction, preprocessing, and structured analysis |
+| **Security** | JWT authentication · Hashing · QR validation · Controlled verification workflows |
+| **Impact** | Reduces manual verification effort and creates a structured authenticity-checking workflow |
+| **Repository** | [GitHub](https://github.com/edge2006) |
 
 ### Engineering Focus
 
-ProofPoint combines **OCR, image processing, QR extraction, structured data generation, and AI-assisted analysis** into a single verification workflow.
+ProofPoint combines **OCR, image processing, QR extraction, structured data generation, hashing, authentication, and AI-assisted analysis** into a document verification pipeline.
 
-The system is designed around a modular pipeline where uploaded documents are processed, relevant information is extracted, normalized into structured data, and evaluated against verification requirements.
+The system is designed around modular processing where documents can be uploaded, transformed, analyzed, normalized into structured information, and evaluated against verification requirements.
 
 **Core engineering areas:**
 
-* OCR-based document extraction
-* PDF-to-image processing
-* QR code detection and decoding
-* Computer vision preprocessing
-* JWT-based authentication
-* Hash-based integrity workflows
-* AI-assisted document analysis
-* REST-style backend architecture
+- OCR-based document extraction
+- PDF-to-image processing
+- QR code detection and decoding
+- Computer vision preprocessing
+- JWT authentication
+- Hash-based integrity workflows
+- AI-assisted document analysis
+- Backend API architecture
 
 </details>
 
@@ -157,31 +160,31 @@ The system is designed around a modular pipeline where uploaded documents are pr
 
 **An assistive smart-glasses concept focused on intelligent environmental awareness and accessible computer vision.**
 
-| Category        | Details                                                                            |
-| :-------------- | :--------------------------------------------------------------------------------- |
-| **Stack**       | Computer Vision · AI/ML · Embedded Systems · Camera Systems · Audio Interfaces     |
-| **Scale**       | Assistive wearable technology concept                                              |
-| **Performance** | Designed around low-latency visual understanding                                   |
-| **Security**    | Privacy-aware processing and controlled data flows                                 |
-| **Impact**      | Helps users interpret objects, text, surroundings, and everyday visual information |
-| **Repository**  | [GitHub](https://github.com/edge2006)                                              |
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Computer Vision · AI/ML · Embedded Systems · Camera Systems · Audio Interfaces |
+| **Scale** | Assistive wearable technology concept |
+| **Performance** | Designed around low-latency visual understanding and contextual feedback |
+| **Security** | Privacy-aware processing and controlled data flows |
+| **Impact** | Helps users interpret objects, text, currency, and surrounding visual information |
+| **Repository** | [GitHub](https://github.com/edge2006) |
 
 ### Engineering Focus
 
 V-ASSIST explores the engineering challenges behind an **AI-powered wearable perception system**.
 
-The product concept combines cameras, sensors, audio feedback, processing hardware, and intelligent vision pipelines to transform environmental information into accessible feedback.
+The concept combines cameras, sensors, audio feedback, processing hardware, and intelligent vision pipelines to transform environmental information into accessible feedback.
 
 **Core engineering areas:**
 
-* Real-time computer vision
-* Object and scene understanding
-* OCR and currency recognition
-* Assistive user interfaces
-* Embedded hardware integration
-* Sensor and camera pipelines
-* AI inference workflows
-* Human-centered product engineering
+- Real-time computer vision
+- Object and scene understanding
+- OCR
+- Currency recognition
+- Assistive interfaces
+- Camera and sensor pipelines
+- AI inference workflows
+- Human-centered product engineering
 
 </details>
 
@@ -192,14 +195,14 @@ The product concept combines cameras, sensors, audio feedback, processing hardwa
 
 **A collaborative academic marketplace connecting students who need help with students who can provide technical and academic services.**
 
-| Category        | Details                                                                 |
-| :-------------- | :---------------------------------------------------------------------- |
-| **Stack**       | Python · Flask · Flask-Login · Flask-SocketIO · HTML · CSS · JavaScript |
-| **Scale**       | Full-stack student marketplace                                          |
-| **Performance** | Lightweight server-side architecture with real-time communication       |
-| **Security**    | Authentication · Password hashing · Session management                  |
-| **Impact**      | Creates a structured ecosystem for peer-to-peer academic collaboration  |
-| **Repository**  | [GitHub](https://github.com/edge2006)                                   |
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Python · Flask · Flask-Login · Flask-SocketIO · HTML · CSS · JavaScript |
+| **Scale** | Full-stack student marketplace |
+| **Performance** | Lightweight server architecture with real-time communication |
+| **Security** | Authentication · Password hashing · Session management |
+| **Impact** | Creates a structured ecosystem for peer-to-peer academic collaboration |
+| **Repository** | [GitHub](https://github.com/edge2006) |
 
 ### Engineering Focus
 
@@ -207,14 +210,14 @@ Campus Hub applies marketplace mechanics to a university environment, allowing s
 
 **Core engineering areas:**
 
-* User authentication
-* Role-based workflows
-* Real-time messaging
-* Request and acceptance systems
-* Student-focused marketplace architecture
-* QR-based payment concepts
-* Privacy-aware communication
-* Flask backend engineering
+- User authentication
+- Role-based workflows
+- Real-time messaging
+- Request and acceptance systems
+- Student marketplace architecture
+- QR-based payment concepts
+- Privacy-aware communication
+- Flask backend engineering
 
 </details>
 
@@ -223,33 +226,33 @@ Campus Hub applies marketplace mechanics to a university environment, allowing s
 
 <br/>
 
-**An Android-focused habit-building application that combines accountability, proof-based tasks, progress tracking, and reward mechanics.**
+**An Android-focused habit-building application combining accountability, proof-based tasks, progress tracking, streaks, and reward mechanics.**
 
-| Category        | Details                                                         |
-| :-------------- | :-------------------------------------------------------------- |
-| **Stack**       | Flutter · Dart · Android · Firebase                             |
-| **Scale**       | Mobile wellness application                                     |
-| **Performance** | Mobile-first lightweight interaction model                      |
-| **Security**    | User authentication · Controlled proof submissions              |
-| **Impact**      | Encourages sustainable daily habits through measurable progress |
-| **Repository**  | [GitHub](https://github.com/edge2006)                           |
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Flutter · Dart · Android · Firebase |
+| **Scale** | Mobile wellness application |
+| **Performance** | Mobile-first lightweight interaction model |
+| **Security** | User authentication · Controlled proof submissions |
+| **Impact** | Encourages consistent habits through measurable progress and accountability |
+| **Repository** | [GitHub](https://github.com/edge2006) |
 
 ### Engineering Focus
 
-Nectar turns personal goals into structured activities and uses **proof, streaks, progress, and reward systems** to encourage consistent behavior.
+Nectar turns personal goals into structured activities and uses **proof, streaks, progress, and rewards** to encourage consistency.
 
-The architecture emphasizes a simple mobile experience while leaving room for intelligent verification and personalized recommendations.
+The product focuses on a simple mobile experience while providing room for intelligent verification and personalized recommendations.
 
 **Core engineering areas:**
 
-* Flutter application architecture
-* Android development
-* Firebase integration
-* User progress tracking
-* Proof submission workflows
-* Streak systems
-* Reward mechanics
-* Product-centered UX
+- Flutter application architecture
+- Android development
+- Firebase integration
+- User progress tracking
+- Proof submission workflows
+- Streak systems
+- Reward mechanics
+- Product-centered UX
 
 </details>
 
@@ -260,20 +263,20 @@ The architecture emphasizes a simple mobile experience while leaving room for in
 
 **A web-based library management application for managing books, users, and borrowing workflows.**
 
-| Category        | Details                                        |
-| :-------------- | :--------------------------------------------- |
-| **Stack**       | React · Node.js · Tailwind CSS · JavaScript    |
-| **Scale**       | Full-stack management application              |
-| **Performance** | Component-driven frontend architecture         |
-| **Security**    | Structured user and data workflows             |
-| **Impact**      | Digitizes common library management operations |
-| **Repository**  | [GitHub](https://github.com/edge2006)          |
+| Category | Details |
+| :--- | :--- |
+| **Stack** | React · Node.js · Tailwind CSS · JavaScript |
+| **Scale** | Full-stack management application |
+| **Performance** | Component-driven frontend architecture |
+| **Security** | Structured user and data workflows |
+| **Impact** | Digitizes common library management operations |
+| **Repository** | [GitHub](https://github.com/edge2006) |
 
 ### Engineering Focus
 
-The project focuses on building a practical management interface with a clean frontend architecture and structured handling of library operations.
+The project focuses on building a practical management interface with structured handling of library operations.
 
-Planned workflow concepts include tracking **who borrowed a book, borrowing duration, availability, and return status**.
+The system is designed around workflows such as book availability, borrowing, return status, borrower tracking, and borrowing duration.
 
 </details>
 
@@ -289,16 +292,16 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 **Scope of Work**
 
-* Design and implement full-stack applications
-* Build REST APIs and backend services
-* Develop modern web interfaces
-* Prototype AI-powered product features
-* Experiment with computer vision and OCR pipelines
-* Build Android applications using Flutter
-* Work with Firebase, Supabase, and modern deployment platforms
-* Debug Linux, Android, Git, and development-environment issues
-* Explore custom ROM development and Android system modification
-* Participate in hackathons and product-building initiatives
+- Design and implement full-stack applications
+- Build REST APIs and backend services
+- Develop modern web interfaces
+- Prototype AI-powered product features
+- Experiment with computer vision and OCR pipelines
+- Build Android applications using Flutter
+- Work with Firebase, Supabase, and modern deployment platforms
+- Debug Linux, Android, Git, and development environments
+- Explore custom ROM development and Android system modification
+- Participate in hackathons and product-building initiatives
 
 **Skills**
 
@@ -310,13 +313,13 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 <div align="center">
 
-|        Recognition       | Details                                                                                                  |
-| :----------------------: | :------------------------------------------------------------------------------------------------------- |
-|   **Hackathon Builder**  | Developed solutions around certificate verification, AI, and student-focused technology                  |
-|  **Product Engineering** | Built multiple end-to-end application concepts across web, mobile, and AI                                |
-|   **AI / CV Projects**   | Worked on OCR, computer vision, intelligent verification, and assistive technology concepts              |
-| **Open Source Explorer** | Continuous experimentation with Linux, Android customization, developer tooling, and software ecosystems |
-| **Engineering Projects** | Built academic and independent products spanning frontend, backend, databases, mobile, and AI            |
+| Recognition | Details |
+| :---: | :--- |
+| **Hackathon Builder** | Developed solutions around certificate verification, AI, accessibility, and student-focused technology |
+| **Product Engineering** | Built multiple end-to-end application concepts across web, mobile, AI, and assistive technology |
+| **AI / CV Projects** | Worked with OCR, computer vision, intelligent verification, and environmental-awareness concepts |
+| **Systems Explorer** | Continuous experimentation with Linux, Android customization, custom ROMs, and developer tooling |
+| **Engineering Projects** | Built academic and independent products spanning frontend, backend, databases, mobile, and AI |
 
 </div>
 
@@ -324,29 +327,28 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 # Certifications
 
-### AWS
+<div align="center">
 
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-Cloud-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p align="left">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Infrastructure-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</td>
+<td align="center">
 <img src="https://img.shields.io/badge/Oracle-Technology-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p align="left">
-<img src="https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Cisco
-
-<p align="left">
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+</td>
+<td align="center">
 <img src="https://img.shields.io/badge/Cisco-Networking-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -378,13 +380,24 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edge2006&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0617&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" />
+<table>
+<tr>
+<td width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edge2006&layout=compact&hide_border=true&langs_count=8&bg_color=0B0617&title_color=A78BFA&text_color=E9D5FF" />
+<img src="./profile/stats.svg" alt="GitHub Statistics" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="./profile/top-langs.svg" alt="Top Languages" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=edge2006&hide_border=true&background=0B0617&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+<img src="https://streak-stats.demolab.com?user=edge2006&hide_border=true&background=0B0617&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="70%" />
 
 </div>
 
@@ -394,7 +407,7 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=edge2006&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%" />
 
 </div>
 
@@ -404,7 +417,7 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edge2006&bg_color=0B0617&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edge2006&bg_color=0B0617&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity" />
 
 </div>
 
@@ -436,39 +449,61 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 # Current Focus
 
-```yaml
-current_focus:
-  Learning:
-    - Advanced Software Engineering
-    - Artificial Intelligence
-    - Computer Vision
-    - Machine Learning
-    - System Design
-    - Cloud & DevOps
+<div align="center">
 
-  Building:
-    - AI-powered applications
-    - Intelligent verification systems
-    - Assistive technology
-    - Full-stack products
-    - Developer-focused tools
+<table>
+<tr>
+<td width="25%" valign="top">
 
-  Exploring:
-    - Multimodal AI
-    - Edge AI
-    - Computer Vision
-    - Embedded AI systems
-    - Linux & Android internals
-    - Open Source ecosystems
+### Learning
 
-  Open To:
-    - Software Engineering opportunities
-    - AI/ML collaborations
-    - Open Source contributions
-    - Hackathons
-    - Product engineering projects
-    - Technical collaborations
-```
+- Advanced Software Engineering
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
+- System Design
+- Cloud & DevOps
+
+</td>
+<td width="25%" valign="top">
+
+### Building
+
+- AI-powered applications
+- Intelligent verification systems
+- Assistive technology
+- Full-stack products
+- Developer tools
+
+</td>
+<td width="25%" valign="top">
+
+### Exploring
+
+- Multimodal AI
+- Edge AI
+- Computer Vision
+- Embedded AI systems
+- Linux & Android internals
+- Open Source ecosystems
+
+</td>
+<td width="25%" valign="top">
+
+### Open To
+
+- Software Engineering
+- AI/ML collaborations
+- Open Source
+- Hackathons
+- Product engineering
+- Technical collaborations
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -502,6 +537,6 @@ current_focus:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,25:6D28D9,50:4C1D95,75:24104F,100:0B0617&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,25:6D28D9,50:4C1D95,75:24104F,100:0B0617&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
