@@ -435,6 +435,8 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 ---
 
 # Current Focus
+
+```yaml
 current_focus:
   Learning:
     - Advanced Software Engineering
@@ -466,6 +468,7 @@ current_focus:
     - Hackathons
     - Product engineering projects
     - Technical collaborations
+```
 
 ---
 
