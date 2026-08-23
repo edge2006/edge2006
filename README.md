@@ -491,4 +491,3 @@ current_focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,25:6D28D9,50:4C1D95,75:24104F,100:0B0617&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-```
