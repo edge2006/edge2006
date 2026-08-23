@@ -412,7 +412,7 @@ Building software projects across web, mobile, AI, computer vision, Linux, Andro
 
 # Contribution Snake
 
-<<div align="center">
+<div align="center">
 
 <picture>
   <source
