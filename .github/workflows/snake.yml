@@ -1,6 +1,6 @@
 name: Generate Snake Animation
 
-"on":
+on:
   workflow_dispatch:
 
 permissions:
